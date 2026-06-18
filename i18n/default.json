@@ -1,0 +1,10 @@
+{
+  "species-count": "Species: {{count}}/{{max}}",
+  "needs-item": " (Needs {{count}}x {{itemName}})",
+  "needs-item-grow": " (Needs {{count}}x {{itemName}} to grow)",
+  "capacity-info": " (Capacity: {{count}}/{{max}})",
+  "species-limit-reached": "The species {{fishName}} has reached its maximum population in the pond!",
+  "needs-items-to-grow": "The species {{fishName}} needs to complete its item request to grow!",
+  "pond-full-species": "The fish pond has reached the maximum of 10 species!",
+  "add-fish-confirm": "Add {{fishName}} to this fish pond?"
+}

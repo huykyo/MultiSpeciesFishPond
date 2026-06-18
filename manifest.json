@@ -1,0 +1,9 @@
+{
+  "Name": "Multi Species Fish Pond",
+  "Author": "HuyKyo",
+  "Version": "1.1.0",
+  "Description": "Allows fish ponds to hold up to 10 different fish species simultaneously.",
+  "UniqueID": "HuyKyo.MultiSpeciesFishPond",
+  "EntryDll": "MultiSpeciesFishPond.dll",
+  "MinimumApiVersion": "3.18.0"
+}

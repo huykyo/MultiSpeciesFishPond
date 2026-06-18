@@ -1,0 +1,10 @@
+{
+  "species-count": "Loài: {{count}}/{{max}}",
+  "needs-item": " (Cần {{count}}x {{itemName}})",
+  "needs-item-grow": " (Cần {{count}}x {{itemName}} để lớn)",
+  "capacity-info": " (Sức chứa: {{count}}/{{max}})",
+  "species-limit-reached": "Loài cá {{fishName}} đã đạt số lượng tối đa trong ao!",
+  "needs-items-to-grow": "Loài cá {{fishName}} cần hoàn thành yêu cầu vật phẩm để tăng số lượng!",
+  "pond-full-species": "Ao cá đã đầy 10 loài!",
+  "add-fish-confirm": "Thêm {{fishName}} vào ao cá này?"
+}
